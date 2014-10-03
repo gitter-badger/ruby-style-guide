@@ -1,4 +1,5 @@
 # Prelude
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/gamegenetics/ruby-style-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Role models are important. <br/>
 > -- Officer Alex J. Murphy / RoboCop
